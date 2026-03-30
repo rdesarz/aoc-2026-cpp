@@ -1,4 +1,4 @@
-# Advent of Code 2026
+# Advent of Code 2025
 
 This repository contains my C++ solutions for the first 4 days of Advent of Code . The repository includes the source code as well as the input used.
 
